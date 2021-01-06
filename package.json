@@ -12,7 +12,7 @@
     "@vx/group": "^0.0.195",
     "@vx/hierarchy": "^0.0.195",
     "@vx/shape": "^0.0.195",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "d3-hierarchy": "^1.1.9",
     "eslint-config-prettier": "^6.11.0",
     "prettier": "^2.0.2",
